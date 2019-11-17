@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yinshan Cai, Launches Site"
+title: "Yinshan Cai"
 date: 2019-11-17
 ---
 
