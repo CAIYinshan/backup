@@ -1,7 +1,7 @@
 ---
-layout:post
-title:"Yinshan Cai, Launches Site"
-date:2019-11-17
+layout: post
+title: "Yinshan Cai, Launches Site"
+date: 2019-11-17
 ---
 
 
